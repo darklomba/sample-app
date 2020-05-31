@@ -11,6 +11,7 @@ gem 'sqlite3', '~> 1.4'
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
 gem 'bcrypt', '3.1.13'
+
 gem 'bootstrap-sass', '3.4.1'
 
 gem 'rails-controller-testing'
