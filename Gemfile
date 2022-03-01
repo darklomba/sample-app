@@ -12,7 +12,7 @@ gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
 gem 'bcrypt', '3.1.13'
 gem 'active_storage_validations', '0.8.2'
-gem 'image_processing', '1.9.3'
+gem 'image_processing', '1.12.2'
 gem 'mini_magick', '4.9.5'
 
 gem 'faker', '2.1.2'
